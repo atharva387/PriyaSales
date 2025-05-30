@@ -1,0 +1,459 @@
+{
+  "Access": "",
+  "UserData": {
+    "fristName": "",
+    "lastName": "",
+    "email": "",
+    "address": "",
+    "password": ""
+  },
+  "Cart": [],
+  "Contact": {
+    "name": "",
+    "email": "",
+    "phone": "",
+    "message": ""
+  },
+  "Home": {
+    "Component1": [
+      {
+        "sliderId": 1,
+        "brandIcon": "./assets/images/hero/Apple_logo.png",
+        "productName": "Dell laptops and Computer",
+        "productTitle": "Up to 20% off ",
+        "productLink": "#",
+        "productImage": "./assets/images/hero/Apple_hero_.png",
+        "activeSlider": "active"
+      },
+      {
+        "sliderId": 2,
+        "brandIcon": "./assets/images/hero/Apple_logo.png",
+        "productName": "Dell laptops and Computer",
+        "productTitle": "Up to 20% off ",
+        "productLink": "#",
+        "productImage": "./assets/images/hero/Apple_hero_.png",
+        "activeSlider": ""
+      },
+      {
+        "sliderId": 3,
+        "brandIcon": "./assets/images/hero/Apple_logo.png",
+        "productName": "Dell laptops and Computer",
+        "productTitle": "Up to 20% off ",
+        "productLink": "#",
+        "productImage": "./assets/images/hero/Apple_hero_.png",
+        "activeSlider": ""
+      }
+    ],
+
+    "Component2": [
+      {
+        "id": 1,
+        "img": "assets/images/flashSalies/LenovoThinkcenter.png",
+        "title": "Lenovo Thinkcenter 6th gen",
+        "discount": "-20%",
+        "price": 12000,
+        "oldPrice": "RS.14000",
+        "reviewStar": 5,
+        "numperReview": "88",
+        "cardActive": ""
+      },
+      {
+        "id": 2,
+        "img": "assets/images/flashSalies/dellopt.jpg",
+        "title": "Dell Optoplex core i5 6th gen",
+        "discount": "-35%",
+        "price": 960,
+        "oldPrice": "$1160",
+        "reviewStar": 4,
+        "numperReview": "75",
+        "cardActive": ""
+      },
+      {
+        "id": 3,
+        "img": "assets/images/flashSalies/dellmon22in.jpg",
+        "title": "Dell Monitor 22 Inches",
+        "discount": "-30%",
+        "price": 370,
+        "oldPrice": "$400",
+        "reviewStar": 5,
+        "numperReview": "99",
+        "cardActive": ""
+      },
+      {
+        "id": 4,
+        "img": "assets/images/flashSalies/dellopyi3050.jpg",
+        "title": "Dell Optiplex 3050",
+        "discount": "-25%",
+        "price": 10800,
+        "oldPrice": "$400",
+        "reviewStar": 4.5,
+        "numperReview": "99",
+        "cardActive": ""
+      },
+      {
+        "id": 5,
+        "img": "assets/images/flashSalies/dellopti790.jpg",
+        "title": "Dell Optiplex 790",
+        "discount": "10%",
+        "price": 360,
+        "oldPrice": "$340",
+        "reviewStar": 2.5,
+        "numperReview": "65",
+        "cardActive": ""
+      },
+      {
+        "id": 6,
+        "img": "assets/images/flashSalies/dellmon22in.jpg",
+        "title": "Dell Monitor 24 Inches",
+        "discount": "50%",
+        "price": 960,
+        "oldPrice": "$480",
+        "reviewStar": 3.5,
+        "numperReview": "72",
+        "cardActive": ""
+      }
+    ],
+    "Component6": [
+      {
+        "id": 1,
+        "img": "assets/images/flashSalies/1.png",
+        "title": "Lenovo ThinkCentre",
+        "price": 12000,
+        "ram": "8 GB",
+        "rom": "512 GB SSD",
+        "os": "Windows 10 Pro",
+        "cardActive": "",
+        "spec": 80,
+        "details": "Compact desktop PC featuring Intel Core i5 6th Gen (i5-6500), suitable for office productivity, online classes, and basic multitasking. Comes with DisplayPort, USB 3.0 ports, and integrated Intel HD Graphics 530."
+      },
+      {
+        "id": 2,
+        "img": "assets/images/flashSalies/2.jpg",
+        "title": "Lenovo T480",
+        "price": 18000,
+        "ram": "8 GB",
+        "rom": "256 GB SSD",
+        "os": "Windows 10 Pro",
+        "cardActive": "",
+        "spec": 88,
+        "details": "14-inch business-grade laptop powered by Intel Core i5 8th Gen (i5-8350U). Features backlit keyboard, USB-C, HDMI, and integrated Intel UHD Graphics 620. Ideal for professionals and students alike."
+      },
+      {
+        "id": 3,
+        "img": "assets/images/flashSalies/3.jpg",
+        "title": "Dell Optiplex",
+        "price": 7500,
+        "ram": "8 GB",
+        "rom": "500 GB HDD",
+        "os": "Windows 10 Pro",
+        "cardActive": "",
+        "spec": 75,
+        "details": "Reliable office desktop with Intel Core i5 4th Gen (i5-4570), DVD RW, USB 3.0, and VGA/DP output. Best suited for basic business needs, document editing, and internet browsing."
+      },
+      {
+        "id": 4,
+        "img": "assets/images/flashSalies/4.jpg",
+        "title": "Dell Optiplex",
+        "price": 10800,
+        "ram": "8 GB",
+        "rom": "256 GB SSD",
+        "os": "Windows 10",
+        "cardActive": "",
+        "spec": 82,
+        "details": "Mid-tier desktop with Intel Core i5 6th Gen (i5-6500), HDMI, DisplayPort, USB 3.1, and SSD for fast boot times. Good for multitasking and small business setups."
+      },
+      {
+        "id": 5,
+        "img": "assets/images/flashSalies/5.jpg",
+        "title": "Dell Monitor",
+        "price": 3000,
+        "ram": "",
+        "rom": "",
+        "os": "",
+        "cardActive": "",
+        "spec": 70,
+        "details": "22-inch Full HD LED monitor with VGA and DVI ports. Crisp display ideal for extended office or home use. VESA mount supported."
+      },
+      {
+        "id": 6,
+        "img": "assets/images/flashSalies/6.jpg",
+        "title": "Dell Monitor",
+        "price": 3500,
+        "ram": "",
+        "rom": "",
+        "os": "",
+        "cardActive": "",
+        "spec": 72,
+        "details": "24-inch LED monitor (model not specified). Assumed Full HD display with standard HDMI/VGA inputs. Ideal for graphic work, presentations, or general use."
+      },
+      {
+        "id": 7,
+        "img": "assets/images/flashSalies/7.jpg",
+        "title": "Dell Optiplex",
+        "price": 8800,
+        "ram": "8 GB",
+        "rom": "500 GB SSD",
+        "os": "Windows 10 Pro",
+        "cardActive": "",
+        "spec": 68,
+        "details": "Older generation desktop featuring Intel Core i5 2nd Gen (i5-2400). Still useful for data entry, lightweight usage, or POS systems in retail."
+      },
+      {
+        "id": 8,
+        "img": "assets/images/flashSalies/8.jpg",
+        "title": "Lenovo X395",
+        "price": 20000,
+        "ram": "16 GB",
+        "rom": "256 GB SSD",
+        "os": "Windows 11 Pro",
+        "cardActive": "",
+        "spec": 90,
+        "details": "Ultra-portable 14-inch laptop powered by AMD Ryzen 5 Pro 3500U. Lightweight chassis, excellent battery life, and security features for business travel."
+      },
+      {
+        "id": 9,
+        "img": "assets/images/flashSalies/9.jpg",
+        "title": "Lenovo T470",
+        "price": 18000,
+        "ram": "8 GB",
+        "rom": "256 GB SSD",
+        "os": "Windows 10 Pro",
+        "cardActive": "",
+        "spec": 85,
+        "details": "Business-focused laptop with Intel Core i5 7th Gen (i5-7300U), 14-inch HD screen, Thunderbolt, USB 3.0, and long-lasting battery. A favorite among corporate users."
+      },
+      {
+        "id": 10,
+        "img": "assets/images/flashSalies/10.jpg",
+        "title": "Dell Latitude",
+        "price": 25000,
+        "ram": "16 GB",
+        "rom": "512 GB SSD",
+        "os": "Windows 11 Pro",
+        "cardActive": "",
+        "spec": 92,
+        "details": "High-performance Dell Latitude 7490 with Intel Core i7 8th Gen (i7-8650U). Features premium build, fingerprint scanner, and long battery life. Great for executives and power users."
+      },
+      {
+        "id": 11,
+        "img": "assets/images/flashSalies/11.jpg",
+        "title": "Dell Latitude",
+        "price": 24000,
+        "ram": "16 GB",
+        "rom": "256 GB SSD",
+        "os": "Windows 11 Pro",
+        "cardActive": "",
+        "spec": 91,
+        "details": "Sleek 14-inch Dell Latitude 5401 powered by Intel Core i7 9th Gen (i7-9850H). Ideal for developers and professionals seeking portable processing power."
+      }
+    ],
+
+    "Component3": [
+      {
+        "categoryId": 1,
+        "categoryIcon": "phone-portrait-outline",
+        "categoryName": "Phones",
+        "categoryLink": "#"
+      },
+      {
+        "categoryId": 2,
+        "categoryIcon": "desktop-outline",
+        "categoryName": "Computers",
+        "categoryLink": "#"
+      },
+      {
+        "categoryId": 3,
+        "categoryIcon": "watch-outline",
+        "categoryName": "SmartWatch",
+        "categoryLink": "#"
+      },
+      {
+        "categoryId": 4,
+        "categoryIcon": "camera-outline",
+        "categoryName": "Camera",
+        "categoryLink": "#"
+      },
+      {
+        "categoryId": 5,
+        "categoryIcon": "headset-outline",
+        "categoryName": "Phones",
+        "categoryLink": "#"
+      },
+      {
+        "categoryId": 6,
+        "categoryIcon": "game-controller-outline",
+        "categoryName": "Gaming",
+        "categoryLink": "#"
+      },
+      {
+        "categoryId": 7,
+        "categoryIcon": "shirt-outline",
+        "categoryName": "Clothes",
+        "categoryLink": "#"
+      }
+    ],
+
+    "Component4": [
+      {
+        "id": 1,
+        "img": "assets/images/bestSelling/jacket.png",
+        "title": "HAVIT HV-G92 Gamepad",
+        "price": 120,
+        "oldPrice": "$160",
+        "reviewStar": 2.5,
+        "numperReview": "65",
+        "cardActive": ""
+      },
+      {
+        "id": 2,
+        "img": "assets/images/bestSelling/gucci.png",
+        "title": "AK-900 Wired Keyboard",
+        "price": 960,
+        "oldPrice": "$1160",
+        "reviewStar": 3.5,
+        "numperReview": "75",
+        "cardActive": ""
+      },
+      {
+        "id": 3,
+        "img": "assets/images/bestSelling/speaker.png",
+        "title": "IPS LCD Gaming Monitor",
+        "price": 370,
+        "oldPrice": "$400",
+        "reviewStar": 3.5,
+        "numperReview": "99",
+        "cardActive": ""
+      },
+      {
+        "id": 4,
+        "img": "assets/images/bestSelling/bookSelf.png",
+        "title": "S-Series Comfort Chair",
+        "price": 375,
+        "oldPrice": "$400",
+        "reviewStar": 2.5,
+        "numperReview": "99",
+        "cardActive": ""
+      }
+    ],
+
+    "Component5": [
+      {
+        "type": "Categories",
+        "productHeder": "Enhance Your Music Expperience",
+        "productLink": "#",
+        "productImg": "assets/images/categories/JBL_BOOMBOX.png"
+      }
+    ],
+
+    "Component7": [
+      {
+        "productImage": "assets/images/arrival/ps5-slim.png",
+        "productHeder": "Play Station 5",
+        "productTitle": "Black and White version of the PS5 coming out on sale.",
+        "productLink": "#"
+      },
+      {
+        "productImage": "assets/images/arrival/attractive-woman.png",
+        "productHeder": "women's collections",
+        "productTitle": "featured waman collections that give you another vibe.",
+        "productLink": "#"
+      },
+      {
+        "productImage": "assets/images/arrival/clipart-transparent.png",
+        "productHeder": "speakers",
+        "productTitle": "amazon wireless speakers",
+        "productLink": "#"
+      },
+      {
+        "productImage": "assets/images/arrival/Perfume.png",
+        "productHeder": "perfume",
+        "productTitle": "GUCCI INTENSE OUD EDP",
+        "productLink": "#"
+      }
+    ],
+
+    "Component8": [
+      {
+        "aboutServicesId": 1,
+        "aboutServicesIcon": "bi bi-truck",
+        "aboutServicesHeder": "FREE AND FAST DELIVERY",
+        "aboutServicesTitle": "Free delivery for all orders"
+      },
+      {
+        "aboutServicesId": 2,
+        "aboutServicesIcon": "bi bi-headset",
+        "aboutServicesHeder": "24/7 CUSTOMER SERVICE",
+        "aboutServicesTitle": "Friendly 24/7 customer support"
+      },
+      {
+        "aboutServicesId": 3,
+        "aboutServicesIcon": "bi bi-shield-check",
+        "aboutServicesHeder": "MONEY BACK GUARANTEE",
+        "aboutServicesTitle": "We return money within 30 days"
+      }
+    ]
+  },
+  "About": {
+    "result": [
+      {
+        "resultId": 1,
+        "resultIcon": "bi bi-shop",
+        "resultNumper": "10.5k",
+        "resultTitle": "Sellers active our site"
+      },
+      {
+        "resultId": 2,
+        "resultIcon": "bi bi-coin",
+        "resultNumper": "33k",
+        "resultTitle": "Mopnthly Product Sale"
+      },
+      {
+        "resultId": 3,
+        "resultIcon": "bi bi-handbag",
+        "resultNumper": "45.5k",
+        "resultTitle": "Customer active in our site"
+      },
+      {
+        "resultId": 4,
+        "resultIcon": "bi bi-currency-exchange",
+        "resultNumper": "250M",
+        "resultTitle": "Anual gross sale in our site"
+      }
+    ],
+    "employees": [
+      {
+        "employeId": 1,
+        "employeImg": "assets/images/about/teemMemper1.png",
+        "employeName": "Paresh Kharde",
+        "employeJob": "Founder & Chairman",
+        "employesocialMediaLink": {
+          "twitter": "#",
+          "instagram": "#",
+          "linkedIn": "#"
+        }
+      },
+      {
+        "employeId": 2,
+        "employeImg": "assets/images/about/teemMemper3.png",
+        "employeName": "Jyoti Bajpai",
+        "employeJob": "Managing Director",
+        "employesocialMediaLink": {
+          "twitter": "#",
+          "instagram": "#",
+          "linkedIn": "#"
+        }
+      },
+      {
+        "employeId": 3,
+        "employeImg": "assets/images/about/teemMemper2.png",
+        "employeName": "pushkaraj Waikar",
+        "employeJob": "Store Manager",
+        "employesocialMediaLink": {
+          "twitter": "#",
+          "instagram": "#",
+          "linkedIn": "#"
+        }
+      }
+    ]
+  }
+}
